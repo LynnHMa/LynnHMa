@@ -1,4 +1,4 @@
-<img width="30%" src="https://github.com/user-attachments/assets/4204abdd-d905-4227-8a67-9f9dff6e4979" />  
+<img width="100%" src="https://github.com/user-attachments/assets/4204abdd-d905-4227-8a67-9f9dff6e4979" />  
 <div align="center">
   
 # `< ❌ w ➖ >`
