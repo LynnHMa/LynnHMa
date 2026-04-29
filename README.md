@@ -3,7 +3,7 @@
 # `< ❌ w ➖ >`
 ### Hi there, I'm LynnH Ma (a.k.a 糯米/██) 👋
 
-**Noob Game Designer | Poor Student | B站 UP主**
+**Noob Game Designer | Poor Student | 多重 B站 UP主**
 
 *一个在“极低功耗待机模式”与“100% CPU 超频心流”之间反复横跳的自由人。*
 
@@ -11,30 +11,53 @@
 
 ---
 
-### 💻 About Me (System Specs)  
+### 💻 About Me
 
-- 🎓 **Major:** Cosmetics R&D —— But the actual major is ██████。
-- 🎭 **Going Experiment:** 
-  - **知名游戏 UP主**：NurlMe（About 145k Fans | Failed）
-  - **游戏 UP主（Virtual Identity）**：热爱███的███（About 24k Fans,Going | Almost failed）
-  - ████████（Special | Almost failed）
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=LynnHMa&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FFC620&title_color=00FFC6&text_color=8b949e&icon_color=00FFC6&hide_border=false" />  
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=LynnHMa&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FFC620&title_color=00FFC6&text_color=8b949e&icon_color=00FFC6&hide_border=false" />
+
+```
+╔══════════════════════════════════════╗
+║        SYSTEM DIAGNOSTIC v2.0        ║
+╚══════════════════════════════════════╝
+
+ UNIT        »  LynnH Ma (█ █ █)
+ MAJOR       »  Cosmetics R&D
+               (actual: ██████████)
+ STATUS      »  [ OPERATIONAL ]
+
+ EXPERIMENTS RUNNING:
+
+ ► [PROC_1]  知名游戏 UP主 · NurlMe
+             Fans ≈ 145k | ❌ FAILED
+
+ ► [PROC_2]  游戏 UP主 (Virtual Identity)
+             热爱███的███
+             Fans ≈ 24k  | ⚠ UNSTABLE
+
+ ► [PROC_3]  ████████████
+             [CLASSIFIED] | ⚠ UNSTABLE
+
+ UPTIME      »  ??yr ??mo ??d
+ WARNINGS    »  3 experiments near failure
+```
+
+<br clear="right"/>
 
   
 ---  
 
 ### 🛠️ Skill & Tech Stack
  
-**💻 Coding**
+💻**Coding**
  
 <table><tr>
   <td>
     <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
-    <a href="https://www.jetbrains.com/rider/"><img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white"/></a>
+    <a href="https://www.jetbrains.com/rider/"><img src="https://img.shields.io/badge/Rider-ffc630?style=flat-square&logo=rider&logoColor=white"/></a>
   </td>
   <td><a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/></a></td>
 </tr><tr>
-  <td><a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a></td>
+  <td><a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-ff4541?style=flat-square&logo=intellijidea&logoColor=white"/></a></td>
   <td><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a></td>
 </tr><tr>
   <td>
@@ -42,8 +65,9 @@
     <a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black"/></a>
   </td>
   <td><code>Others</code></td>
-</tr></table>
-**🎬 Editing**
+</tr></table>  
+
+🎬**Editing**
  
 <table><tr>
   <td><a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/badge/After_Effects-00005B?style=flat-square&logo=adobeaftereffects&logoColor=9999FF"/></a></td>
@@ -51,12 +75,12 @@
 </tr><tr>
   <td>
     <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=9999FF"/></a>
-    <a href="https://www.capcut.cn/"><img src="https://img.shields.io/badge/剪映-FE2C55?style=flat-square&logo=tiktok&logoColor=white"/></a>
+    <a href="https://www.capcut.cn/"><img src="https://img.shields.io/badge/剪映-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
     <a href="https://bcut.bilibili.cn/"><img src="https://img.shields.io/badge/必剪-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/></a>
   </td>
   <td><code>Simple task</code></td>
 </tr><tr>
-  <td><a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF"/></a></td>
+  <td><a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-259fff?style=flat-square&logo=adobephotoshop&logoColor=31A8FF"/></a></td>
   <td><code>Simple image design</code></td>
 </tr><tr>
   <td><a href="https://www.adobe.com/products/audition.html"><img src="https://img.shields.io/badge/Audition-00005B?style=flat-square&logo=adobeaudition&logoColor=9999FF"/></a></td>
@@ -65,7 +89,8 @@
   <td><a href="https://www.image-line.com/"><img src="https://img.shields.io/badge/FL_Studio-FF7400?style=flat-square&logo=FL+Studio&logoColor=white"/></a></td>
   <td><code>Simple audio design</code></td>
 </tr></table>
-**🔧 Misc**
+
+🔧**Misc**
  
 <table><tr>
   <td><a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-CCCCCC?style=flat-square&logo=unity&logoColor=black"/></a></td>
