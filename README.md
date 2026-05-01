@@ -13,7 +13,7 @@
 
 ### 💻 About Me
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=LynnHMa&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FFC620&title_color=00FFC6&text_color=8b949e&icon_color=00FFC6&hide_border=false" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LynnHMa&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FFC620&title_color=00FFC6&text_color=8b949e&icon_color=00FFC6&hide_border=false" />
 
 ```
 ╔══════════════════════════════════════╗
