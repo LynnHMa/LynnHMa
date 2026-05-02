@@ -1,3 +1,6 @@
+<img width="4000" height="626" alt="LynnH Ma banner" src="https://github.com/user-attachments/assets/0e02091b-c1ea-4c6d-9e85-52ca8831aa11" />
+
+  
 <div align="center">
   
 # `< ❌ w ➖ >`
@@ -13,7 +16,7 @@
 
 ### 💻 About Me
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LynnHMa&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FFC620&title_color=00FFC6&text_color=8b949e&icon_color=00FFC6&hide_border=false" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LynnHMa&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FFC620&title_color=00FFC6&text_color=ffffff&icon_color=00FFC6&hide_border=false" />
 
 ```
 ╔══════════════════════════════════════╗
