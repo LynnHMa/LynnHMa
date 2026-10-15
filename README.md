@@ -16,8 +16,8 @@
 
 ### 💻 About Me
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LynnHMa&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FFC620&title_color=00FFC6&text_color=ffffff&icon_color=00FFC6&hide_border=false" />
-
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LynnHMa)  
+  
 ```
 ╔══════════════════════════════════════╗
 ║        SYSTEM DIAGNOSTIC v2.0        ║
@@ -125,8 +125,7 @@
   - `EggAllergyException`: Thrown immediately upon detecting egg odor.
   - `LactoseIntoleranceException`: System panic on dairy input.
 - **Sleep Mode:** S-Tier quality. Enters stable suspension for 8–9 hours daily, performs deep garbage collection (GC), and restores full operational status the next day.
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LynnHMa&bg_color=0D1117&color=b2edff&line=b2edff&point=b2edff&area=true&area_color=b2edff&hide_border=true" width="100%"/>   
-  
+
 ---
 <div align="center">
   <i>"I may be a 'beginner' in theory, but my codebase speaks for itself."</i>
